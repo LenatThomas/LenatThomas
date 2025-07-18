@@ -74,7 +74,7 @@ What does the fox say....?
 
 It laughs and its soothing ✨✨✨🫠
 
-
+<img src="berry.jpeg" width="300" height="300" />
 
 Why fox you ask? Well 
 
