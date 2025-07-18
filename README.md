@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:update_image-->
-<p align="center">
-  <img width="300" height="300" src="https://raw.githubusercontent.com/YourUser/YourUser/main/.github/images/pic123.jpg"/>
-</p>
+<img src=https://raw.githubusercontent.com/LenatThomas/LenatThomas/main/.github/images/fox23.jpeg height=180px width=180px align=right alt=Profile Image />
 <!--END_SECTION:update_image-->
 
 <!--
