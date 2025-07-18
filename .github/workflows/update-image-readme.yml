@@ -13,4 +13,7 @@ jobs:
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
+           HEIGHT: 300px       
+           WIDTH: 300px        
+           ALIGN: center        
            IMG_ALT: Profile Image
