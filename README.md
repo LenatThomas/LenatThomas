@@ -69,7 +69,7 @@
 Feel free to connect or reach out if you're interested in collaborating or just want to talk.
 How to reach me: lenatthomas16@gmail.com
 
-⚡ Fun fact: 
+### Fun fact ⚡
 
 What does the fox say....? 
 
