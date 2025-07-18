@@ -14,4 +14,3 @@ jobs:
       - uses: siddharth2016/update-readme-image@main
         with:
            IMG_ALT: Profile Image
-           COMMIT_MESSAGE: Daily readme.md update.
