@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<!--START_SECTION:update_image-->
+<!--END_SECTION:update_image-->
+
 <!--
 **LenatThomas/LenatThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
