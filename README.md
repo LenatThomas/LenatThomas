@@ -57,6 +57,8 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<img src="science.jpeg" width="300" height="300" />
+
 ### Github Stats 📊
 ![Lenat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LenatThomas&show_icons=true&theme=radical)
 
@@ -72,4 +74,8 @@ What does the fox say....?
 
 It laughs and its soothing ✨✨✨🫠
 
+
+
 Why fox you ask? Well 
+
+<img src="fox.jpeg" width="300" height="300" />
