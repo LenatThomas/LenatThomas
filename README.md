@@ -2,6 +2,7 @@
 
 💬 Want to know what I am feeling today?
 <!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/LenatThomas/LenatThomas/main/.github/images/fox31.jpeg height=300px width=300px align=center alt=Profile Image />
 <!--END_SECTION:update_image-->
 
 ### About me 💫
