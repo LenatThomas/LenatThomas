@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 <!--START_SECTION:update_image-->
+<p align="center">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/YourUser/YourUser/main/.github/images/pic123.jpg" alt="Profile Image" />
+</p>
 <!--END_SECTION:update_image-->
 
 <!--
