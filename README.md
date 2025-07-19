@@ -1,14 +1,16 @@
 ## Hi there 👋 , I'm Lenat
 
+### About me 💫
+
+🎓 I'm an AI and Data Science major with a deep curiosity for solving real-world problems using intelligent systems.  
+💡 I love exploring challenging problems and designing creative solutions.
+
+
 💬 Want to know what I am feeling today?
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/LenatThomas/LenatThomas/main/.github/images/fox5.jpeg height=300px width=300px align=center alt=Profile Image />
 <!--END_SECTION:update_image-->
 
-### About me 💫
-
-🎓 I'm an AI and Data Science major with a deep curiosity for solving real-world problems using intelligent systems.  
-💡 I love exploring challenging problems and designing creative solutions.
 
 ### What I'm passionate about 🌱
 
