@@ -6,11 +6,16 @@
 💡 I love exploring challenging problems and designing creative solutions.
 
 
-💬 Want to know what I am feeling today?
+### Want to know what I am feeling today? 💬
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/LenatThomas/LenatThomas/main/.github/images/fox24.jpeg height=300px width=300px align=center alt=Profile Image />
 <!--END_SECTION:update_image-->
 
+### My Hobbies include 🎵
+* Gaming : Casual gamer here! I enjoy all kinds of games except competitive ones — that's just not my vibe, nah ha. Lately, I've been hooked on the factory/automation genre.
+* Music  : I'm a huge metalhead. Metal music flows through my veins — nothing beats the raw energy and adrenaline it brings.
+
+If you ever want to chat about games or metal, I’m always up for it! Feel free to reach out. 🤘
 
 ### What I'm passionate about 🌱
 
@@ -76,8 +81,6 @@ How to reach me: lenatthomas16@gmail.com
 What does the fox say....? 
 
 It laughs and its soothing ✨✨✨🫠
-
-<img src="berry.jpeg" width="300" height="300" />
 
 Why fox you ask? Well 
 
