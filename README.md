@@ -52,8 +52,6 @@ If you ever want to chat about games or metal, I’m always up for it! Feel free
 <img src="science.jpeg" width="300" height="300" />
 
 ### Github Stats 📊
-![Lenat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LenatThomas&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenatThomas&layout=compact&theme=radical)
 
 ### 📫 Let's Connect!
