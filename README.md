@@ -51,9 +51,6 @@ If you ever want to chat about games or metal, I’m always up for it! Feel free
 
 <img src="science.jpeg" width="300" height="300" />
 
-### Github Stats 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenatThomas&layout=compact&theme=radical)
-
 ### 📫 Let's Connect!
 Feel free to connect or reach out if you're interested in collaborating or just want to talk.
 How to reach me: lenatthomas16@gmail.com
