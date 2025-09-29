@@ -8,7 +8,7 @@
 
 ### Want to know what I am feeling today? 💬
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/LenatThomas/LenatThomas/main/.github/images/fox4.jpg height=300px width=300px align=center alt=Profile Image />
+<img src=https://raw.githubusercontent.com/LenatThomas/LenatThomas/main/.github/images/fox18.jpg height=300px width=300px align=center alt=Profile Image />
 <!--END_SECTION:update_image-->
 
 ### My Hobbies include 🎵
